@@ -37,23 +37,6 @@ Git · GitHub · Android Studio · VS Code · Arduino IDE
 
 ---
 
-## 📜 Certifications
-
-- 🟢 MERN Full Stack — SwipeGen (2026)
-- 🟢 Web Development Internship — VaultofCodes (2025)
-- 🟢 HTML & CSS — Google
-- 🟢 Python for Beginners
-
----
-
-## 📊 GitHub Stats
-
-![Kadhir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kad123456&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kad123456&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kadhir%20RR-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kadhir-r-r-kxd/)
